@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{74C7B061-C433-4B45-0277-B20CEB38020B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PatlamaYokEdici.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UzayGemisiKontrol.cs" />
+      <File FileName="Assets/Scripts/Toplayici.cs" />
+      <File FileName="Assets/Scripts/InputKontrol.cs" />
+      <File FileName="Assets/Scripts/HareketKontrol.cs" />
+      <File FileName="Assets/Scripts/YokEdici.cs" />
+      <File FileName="Assets/Scripts/SiraliYokEdici.cs" />
+      <File FileName="Assets/Scripts/PatlamaYokEdici.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a866533a-51f2-4b6c-acf1-09adfc47e890" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
